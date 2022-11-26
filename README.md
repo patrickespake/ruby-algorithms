@@ -6,6 +6,7 @@ Some Algorithms in Ruby and Strategies of Implementations.
 ## Fundamentals
 
 1. Big O
+
 1.1. [Stack space in recursive calls counts as O(n) space.](big_o/1_time_and_space/README.md)
 
 ## Algorithms
