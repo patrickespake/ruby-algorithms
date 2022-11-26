@@ -1,5 +1,4 @@
-Times that you can divide by 2
-==============================
+# Times that you can divide by 2
 
 ```
 ➜ ruby code.rb
@@ -13,3 +12,7 @@ Number:
 
 Times that you can divide by 2: 5
 ```
+
+## Answer
+
+[answer.rb](answer.rb)
